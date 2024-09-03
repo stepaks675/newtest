@@ -1,0 +1,30 @@
+.nav-link{
+    color:white;
+}
+.container h1 {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 72px;
+}
+.container p{
+    font-family: 'Roboto';
+    font-size: 16px;
+    max-width: 635px;
+}
+.card{
+    margin:32px 0px;
+}
+@media screen and (max-width:500px) {
+    .container h1 {
+        font-family: 'Roboto';
+        font-weight: 300;
+        font-size: 48px;
+    }
+}
+td{
+    font-family: 'Roboto';
+}
+.nav-link {
+    margin-right:8px;
+    margin-left:10px;
+}
